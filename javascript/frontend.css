@@ -1,0 +1,21 @@
+*{
+background: #000;
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+.forms{
+    text-align: center;
+    color: gold;
+}
+#result{
+    color: gold;
+    text-align: center;
+}
+hr{
+border-color: gold;
+border-width: 100%;
+    
+
+}
